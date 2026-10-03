@@ -23,3 +23,13 @@ Open `index.html` or serve the repository with any static web server.
 ## Live Demo
 
 🌐 https://student-study-planner-ashoka.onrender.com
+
+
+## Version history
+- V1 — Core: study planning, progress, sessions and focus timer.
+- V2 — Portability: downloadable planner/session snapshots.
+- V3 — Recovery: versioned JSON backup/restore for the complete local app state.
+
+**Current version: V3**
+
+V3 adds in-app **Backup** and **Restore** controls. Backups are portable JSON snapshots of this app's local browser state.
