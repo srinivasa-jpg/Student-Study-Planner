@@ -18,3 +18,8 @@ A local-first study planning and focus dashboard.
 
 ## Run locally
 Open `index.html` or serve the repository with any static web server.
+
+
+## Live Demo
+
+🌐 https://student-study-planner-ashoka.onrender.com
